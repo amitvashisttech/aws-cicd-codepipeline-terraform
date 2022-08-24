@@ -8,5 +8,4 @@ phases:
   
   build:
     commands:
-      - cd 04-CodeBuild-Pipeline/
       - terraform plan
